@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalChallenge.CSharpFundamentals", "src\PracticalChallenge.CSharpFundamentals\PracticalChallenge.CSharpFundamentals.csproj", "{01062682-7F1C-4AED-A735-ED25F53069F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalChallenge.CSharpFundamentalsTests", "tests\PracticalChallenge.CSharpFundamentalsTests\PracticalChallenge.CSharpFundamentalsTests.csproj", "{5D1683D0-26AB-4023-B856-C0CF2A8E9305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01062682-7F1C-4AED-A735-ED25F53069F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01062682-7F1C-4AED-A735-ED25F53069F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01062682-7F1C-4AED-A735-ED25F53069F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01062682-7F1C-4AED-A735-ED25F53069F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1683D0-26AB-4023-B856-C0CF2A8E9305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1683D0-26AB-4023-B856-C0CF2A8E9305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1683D0-26AB-4023-B856-C0CF2A8E9305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1683D0-26AB-4023-B856-C0CF2A8E9305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
